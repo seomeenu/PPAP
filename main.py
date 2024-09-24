@@ -9,7 +9,6 @@ import threading
 import multidict
 import heapq
 import abc
-from cachecontrol import adapter
 from collections import deque
 
 MAGIC_NUMBER = 2
